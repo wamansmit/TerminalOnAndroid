@@ -5,7 +5,7 @@ Running Linux terminal on Android using Termux.
 ## Requisites:
 1. Termux application from F-Droid only.
 2. Android Phone with available storage.
-
+3. With good Network speed
 ## Follow Steps:
 
 ### Step 1: Install Termux
