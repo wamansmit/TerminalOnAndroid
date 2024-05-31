@@ -72,6 +72,6 @@ echo "nameserver 8.8.4.4" >> /etc/resolv.conf
 And that's it!
 
 ## Additional Information:
-- You can run all your Linux commands and install applications such as Git, Java, Python, Maven, Jenkins server, and access them through a local browser.
+- You can run all your Linux commands as like terminal and install applications such as Git, Java, Python, Maven, Jenkins server, and access them through a local browser.
 - Note that there are some limitations over network access due to Android security policies.
 - You can create and edit your programming or coding files within this environment.
