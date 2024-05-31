@@ -62,7 +62,13 @@ Running Linux terminal on Android using Termux.
    ```sh
    nh -r
    ```
+### Step 8: Configure DNS
+Once Kali Linux is running, you may need to configure DNS to point to Google's DNS servers. Run the following command:
 
+```sh
+echo "nameserver 8.8.8.8" > /etc/resolv.conf
+echo "nameserver 8.8.4.4" >> /etc/resolv.conf
+```
 And that's it!
 
 ## Additional Information:
